@@ -10,7 +10,7 @@
 html,
 body {
   height: 100%;
-  background: url('./images/fireworks.jpg') no-repeat center center;
+  background: url('fireworks.jpg') no-repeat center center;
   background-size: cover;
 }
 
